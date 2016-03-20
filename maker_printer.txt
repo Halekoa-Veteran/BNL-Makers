@@ -1,0 +1,42 @@
+this is a preliminary shoopping list for the Maker club in house developed 3d printer 
+
+partial print of Prusa mendel available
+
+
+controller
+- possibly an Arduino MEGA w/ sheild
+
+stepper motors
+- possibly sourced from
+http://www.kr4.us part #ROB-09238
+
+
+
+Stepper drivers
+-http://www.gearbest.com
++DRV8825 Stepper Motor Driver Module
++StepStick DRV8825 Stepper Motor Driver 
+
+
+
+end stops
+
+
+heated bed
++upper plate
++lower plate
+
+belts pulleys
+
+threaded rod
+
+Extruder
++cold end
++hot end
+
+
+
+
+
+
+
